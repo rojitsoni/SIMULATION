@@ -1,5 +1,4 @@
-//Java Program to find coefficient of 
-// variation of given array 
+
 import java.io.*; 
 
 class centralvalues{ 
@@ -107,4 +106,4 @@ static double variance(double a[],
 } 
 
 
-//This article is contributed by vt_m. 
+//This code is contributed by Rohit verma. 
